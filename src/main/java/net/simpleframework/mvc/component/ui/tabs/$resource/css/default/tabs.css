@@ -1,0 +1,4 @@
+:root 
+.ui-window .tabs .simple_tabs_content {
+	margin-top: 0\0; /* ie9 */
+}
